@@ -13,7 +13,7 @@ def gui():
     emt_label0.pack()
 
     host_path = "C:\Windows\System32\drivers\etc\hosts"
-    ip_address = "192.168.0.104"
+    ip_address = "Insert your local ip here"
 
     def block():
         website_links = enter_web_address.get(1.0, END)
