@@ -1,1 +1,1 @@
-requests
+pyttsx3
